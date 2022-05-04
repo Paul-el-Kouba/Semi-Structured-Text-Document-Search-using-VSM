@@ -1,0 +1,28 @@
+<Music>
+	<Singer>
+		<Name>Stromae</Name> 
+		<DoB>12 March 1985</DoB> 
+		<Nationality>Belgian</Nationality>
+		<Genres>
+			<Genre>Pop</Genre> 
+			<Genre>Dance</Genre>    
+			<Genre>HipHop</Genre>    
+			<Genre>Rap</Genre>    
+			<Genre>Electronic</Genre> 
+		</Genres>
+		<Albums>
+			<Album>Racine Carree</Album>
+			<Album>Cheese</Album>
+			<Album>Multitude</Album> 
+		</Albums>
+		<Songs>
+			<Song>Formidable</Song>
+			<Song>Cheese</Song>
+			<Song>Peace or Violence</Song>
+			<Song>Alors On Dance</Song>
+			<Song>L'enfer</Song>
+			<Song>Sante</Song>
+			<Song>Carmen</Song>
+		</Songs>
+	</Singer>
+</Music>

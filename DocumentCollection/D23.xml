@@ -1,0 +1,27 @@
+<Music>
+	<Singer>
+		<Name>Freddie Mercury</Name>
+		<Band>Queen</Band>
+		<DoB>5 Septemebr 1946</DoB>
+		<DoD>24 November 1991</DoD>
+		<Nationality>British</Nationality>
+		<Genres>
+			<Genre>Pop</Genre> 
+		</Genres>
+		<Albums>
+			<Album>Queen</Album>
+			<Album>Innuendo</Album>
+			<Album>Queen II</Album>
+			<Album>A Night At The Opera</Album>
+		</Albums>
+		<Songs>
+			<Song>Bohemian Rhapsody</Song>
+			<Song>Somebody To Love</Song>
+			<Song>Killer Queen</Song>
+			<Song>Under Pressure</Song>
+			<Song>We Will Rock You</Song>
+			<Song>I Want To Break Free</Song>
+			<Song>The Show Must Go On</Song>
+		</Songs>
+	</Singer>
+</Music>

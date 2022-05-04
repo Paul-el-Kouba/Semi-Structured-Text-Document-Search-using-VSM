@@ -1,0 +1,26 @@
+<Sport>
+	<Name>Baseball</Name>
+	<Tools>
+		<Tool>Ball</Tool>
+		<Tool>Bat</Tool>
+	</Tools>
+	<Teams>
+		<Team>Chicago Cubs</Team>
+		<Team>New York Yankees</Team>
+		<Team>Boston Red Sox</Team>
+		<Team>Los Angeles Dodgers</Team>
+		<Team>Toronto Blue Jays</Team>
+	</Teams>
+	<Players>
+		<Player>Babe Ruth</Player>
+		<Player>Hank Aaron</Player>
+		<Player>Ty Cobb</Player>
+		<Player>Mike Trout</Player>
+		<Player>Willie Mays</Player>
+		<Player>Barry Bonds</Player>
+	</Players>
+	<Coaches>
+		<Coach>Joe Torre</Coach>
+		<Coach>Tony LaRussa</Coach>
+	</Coaches>
+</Sport>

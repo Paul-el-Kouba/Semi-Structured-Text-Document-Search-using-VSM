@@ -1,0 +1,30 @@
+<Music>
+	<Singer>
+		<Name>David Bowie</Name> 
+		<DoB>8 January 1947</DoB>
+		<DoD>10 January 2016</DoD>
+		<Nationality>British</Nationality>
+		<Genres>
+			<Genre>Pop</Genre> 
+			<Genre>Rock</Genre> 
+			<Genre>Hard Rock</Genre> 
+			<Genre>Glam Rock</Genre> 
+			<Genre>Electronic</Genre> 
+		</Genres>
+		<Albums>
+			<Album>David Bowie</Album>
+			<Album>Heroes</Album>
+			<Album>Let's Dance</Album>
+			<Album>The Rise and Fall of Ziggy Stardust and the Spiders from Mars</Album>
+		</Albums>
+		<Songs>
+			<Song>Space Oddity</Song>
+			<Song>Ashes to Ashes</Song>
+			<Song>Rebel Rebel</Song>
+			<Song>Under Pressure</Song>
+			<Song>Life On Mars?</Song>
+			<Song>Heroes</Song>
+			<Song>Changes</Song>
+		</Songs>
+	</Singer>
+</Music>

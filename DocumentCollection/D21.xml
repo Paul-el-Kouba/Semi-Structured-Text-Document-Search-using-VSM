@@ -1,0 +1,28 @@
+<Music>
+	<Singer>
+		<Name>Taylor Swift</Name>
+		<DoB>13 December 1989</DoB>
+		<Nationality>American</Nationality>
+		<Genres>
+			<Genre>Pop</Genre>
+			<Genre>Folk</Genre>
+			<Genre>Country</Genre>
+			<Genre>Rock</Genre>
+			<Genre>Alternative</Genre>
+		</Genres>
+		<Albums>
+			<Album>Folklore</Album>
+			<Album>Red</Album>
+			<Album>1989</Album>
+		</Albums>
+		<Songs>
+			<Song>Everything Has Changed</Song>
+			<Song>Love Story</Song>
+			<Song>Blank Space</Song>
+			<Song>Cardigan</Song>
+			<Song>Mad Woman</Song>
+			<Song>Betty</Song>
+			<Song>Hoax</Song>
+		</Songs>
+	</Singer>
+</Music>

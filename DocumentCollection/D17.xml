@@ -1,0 +1,27 @@
+<Series>
+	<Title>Westworld</Title>
+	<ReleaseDate year="2016"/>
+	<Ratings rated="TV-MA"/>
+	<NumOfEpisodes num="38"/>		
+	<Genres>
+		<Genre>Action</Genre> 
+		<Genre>Drama</Genre>
+		<Genre>Mystery</Genre> 
+		<Genre>Sci-Fi</Genre>
+	</Genres>
+	<Directors>
+		<director>Jonathan Nolan</director>
+		<director>Lisa Joy</director>
+	</Diretors>
+	<Cast>
+		<Actor><Name>Evan Rachel Wood</Name></Actor>
+		<Actor><Name>Jeffrey Wright</Name></Actor>
+		<Actor><Name>Thandiwe Newton</Name></Actor>
+		<Actor><Name>Aaron Paul</Name></Actor>
+		<Actor><Name>Anthony Hopkins</Name></Actor>
+	</Cast>
+	<Plot>In a futuristic Western-themed amusement park, Westworld, the visitors interact with automatons. 
+	However, all hell breaks loose when the robots begin malfunctioning..</Plot>
+	<Score critics="" audience="8.6"/>
+	<Status>Running</Status>
+</Series>

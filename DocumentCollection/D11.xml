@@ -1,0 +1,29 @@
+<Series>
+	<Title>Moon Knight</Title>
+	<ReleaseDate year="2022"/>
+	<Ratings rated="TV-14"/>
+	<NumOfEpisodes num="6"/>		
+	<Genres>
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre> 
+		<Genre>Drama</Genre>
+		<Genre>Horror</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Sci-Fi</Genre>
+	</Genres>
+	<Directors>
+		<director>Mohammad Diab</director>
+		<director>Justin Benson</director>
+	</Diretors>
+	<Cast>
+		<Actor><Name>Oscar Isaac</Name></Actor>
+		<Actor><Name>Ethan Hawke</Name></Actor>
+		<Actor><Name>May Calamawy</Name></Actor>
+		<Actor><Name>F. Murray Ibrahim</Name></Actor>
+		<Actor><Name>David Ganly</Name></Actor>
+	</Cast>
+	<Plot>Steven Grant and mercenary Marc Spector investigate the mysteries of the Egyptian gods 
+	from inside the same body.</Plot>
+	<Score critics="" audience="7.6"/>
+	<Status>Ended</Status>
+</Series>
