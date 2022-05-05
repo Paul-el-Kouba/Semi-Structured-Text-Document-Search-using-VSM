@@ -1,0 +1,23 @@
+<Movies>
+	<Movie>
+		<Title>Don't Look Up</Title>
+		<ReleaseDate>1 April 2010</ReleaseDate>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre> 
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+		<Cast>
+			<Actor><Name>Timothee Chalamet</Name></Actor>
+			<Actor><Name>Meryl Streep</Name></Actor>
+			<Actor><Name>Leonardo DiCaprio</Name></Actor>
+			<Actor><Name>Cate Blanchett</Name></Actor>
+			<Actor><Name>Jennifer Lawrence</Name></Actor>
+		</Cast>
+		<Director>Adam McKay</Director> 
+		<Rating rated="R"/>
+		<Plot>Two low-level astronomers must go on a giant media tour to warn mankind of an approaching comet 
+		that will destroy planet Earth</Plot>
+		<Score critics="49" audience="7.2"/>
+	</Movie>
+</Movies>

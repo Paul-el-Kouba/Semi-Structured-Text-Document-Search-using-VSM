@@ -1,0 +1,29 @@
+<Series>
+	<Title>Stranger Things</Title>
+	<ReleaseDate year="2016"/>
+	<Ratings rated="TV-14"/>
+	<NumOfEpisodes num="35"/>		
+	<Genres>
+		<Genre>Fantasy</Genre> 
+		<Genre>Drama</Genre>
+		<Genre>Mystery</Genre> 
+		<Genre>Horror</Genre> 
+		<Genre>Thriller</Genre> 
+		<Genre>Sci-Fi</Genre>
+	</Genres>
+	<Directors>
+		<director>Matt Duffer</director>
+		<director>Ross Duffer</director>
+	</Directors>
+	<Cast>
+		<Actor><Name>Millie Bobby Brown</Name></Actor>
+		<Actor><Name>Finn Wolfhard</Name></Actor>
+		<Actor><Name>Winona Ryder</Name></Actor>
+		<Actor><Name>David Harbour</Name></Actor>
+		<Actor><Name>Noah Schnapp</Name></Actor>
+	</Cast>
+	<Plot>In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. 
+	As they search for answers, the children unravel a series of extraordinary mysteries.</Plot>
+	<Score critics="" audience="8.7"/>
+	<Status>Running</Status>
+</Series>

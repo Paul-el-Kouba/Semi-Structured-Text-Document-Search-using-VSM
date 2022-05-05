@@ -1,0 +1,35 @@
+<Movies>
+	<Movie>
+		<Title> Spider-Man: No Way Home </Title>
+		<ReleaseDate>17 December 2021</ReleaseDate>		
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Fantasy</Genre>
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+		<Cast>
+			<Actor><Name>Benedict Cumberbatch</Name></Actor>
+			<Actor><Name>Tom Holland</Name></Actor>
+			<Actor><Name>Zendaya</Name></Actor>
+			<Actor><Name>Jacob Batalon</Name></Actor>
+			<Actor><Name>Andrew Garfield</Name></Actor>
+			<Actor><Name>Tobey Maguire</Name></Actor>
+		</Cast>
+		<Director>Jon Watts</Director>
+		<Follows>
+			<title>Doctor Strange</title>
+			<title>Spider-Man: Far From Home</title>
+			<title>Spider-Man: Homecoming</title>
+			<title>The Amazing Spider-Man</title>
+			<title>The Amazing Spider-Man 2</title>
+			<title>Spider-Man</title>
+			<title>Spider-Man 2</title>
+			<title>Spider-Man 3</title>
+		</Follows>
+		<Rating rated="PG-13"/>
+		<Plot>Peter Parker seeks Doctor Strange's help to make people forget about Spiderman's identity. 
+		However, when the spell he casts gets corrupted, several unwanted guests enter their universe.</Plot>
+		<Score critics="71" audience="8.4"/>
+	</Movie>
+</Movies>

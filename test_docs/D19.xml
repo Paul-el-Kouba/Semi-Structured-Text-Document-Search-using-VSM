@@ -1,0 +1,25 @@
+<Series>
+	<Title>Peaky Blinders</Title>
+	<ReleaseDate year="2014"/>
+	<Ratings rated="TV-MA"/>
+	<NumOfEpisodes num="36"/>		
+	<Genres>
+		<Genre>Crime</Genre> 
+		<Genre>Drama</Genre> 
+	</Genres>
+	<Directors>
+		<director>Anthony Byrne</director>
+		<director>Steven Knight</director>
+	</Directors>
+	<Cast>
+		<Actor><Name>Cillian Murphy</Name></Actor>
+		<Actor><Name>Paul Anderson</Name></Actor>
+		<Actor><Name>Helen McCrory</Name></Actor>
+		<Actor><Name>Sophie Rundle</Name></Actor>
+		<Actor><Name>Finn Cole</Name></Actor>
+	</Cast>
+	<Plot>Tommy Shelby, a dangerous man, leads the Peaky Blinders, a gang based in Birmingham. 
+	Soon, Chester Campbell, an inspector, decides to nab him and put an end to the criminal activities.</Plot>
+	<Score critics="" audience="8.8"/>
+	<Status>Ended</Status>
+</Series>

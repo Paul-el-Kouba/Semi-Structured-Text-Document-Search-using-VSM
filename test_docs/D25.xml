@@ -1,0 +1,30 @@
+<Music>
+	<Singer>
+		<Name>John Lennon</Name> 
+		<Band>The Beatles</Band>
+		<DoB>9 October 1940</DoB>
+		<DoD>8 December 1980</DoD>
+		<Nationality>British</Nationality>
+		<Genres>
+			<Genre>Pop</Genre> 
+			<Genre>Rock</Genre> 
+			<Genre>Beat</Genre> 
+			<Genre>Psychedelia</Genre>  
+		</Genres>
+		<Albums>
+			<Album>Abbey Road</Album>
+			<Album>Let It Be</Album>
+			<Album>Help!</Album>
+			<Album>The Beatles</Album>
+		</Albums>
+		<Songs>
+			<Song>Let It Be</Song>
+			<Song>Here Comes The Sun</Song>
+			<Song>Hey Jude</Song>
+			<Song>Strawberry Fields Forever</Song>
+			<Song>A Day In The Life</Song>
+			<Song>I Want To Hold Your Hand</Song>
+			<Song>The Long And Whinding Road</Song>
+		</Songs>
+	</Singer>
+</Music>

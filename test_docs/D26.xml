@@ -1,0 +1,29 @@
+<Music>
+	<Singer>
+		<Name>Paul McCartney</Name> 
+		<Band>The Beatles</Band>
+		<DoB>18 June 1942</DoB> 
+		<Nationality>British</Nationality>
+		<Genres>
+			<Genre>Pop</Genre> 
+			<Genre>Rock</Genre> 
+			<Genre>Beat</Genre> 
+			<Genre>Psychedelia</Genre>  
+		</Genres>
+		<Albums>
+			<Album>Abbey Road</Album>
+			<Album>McCartney III</Album>
+			<Album>Help!</Album>
+			<Album>Ram</Album>
+		</Albums>
+		<Songs>
+			<Song>Blackbird</Song>
+			<Song>Here Comes The Sun</Song>
+			<Song>Hey Jude</Song>
+			<Song>Strawberry Fields Forever</Song>
+			<Song>A Day In The Life</Song>
+			<Song>I Want To Hold Your Hand</Song>
+			<Song>The Long And Whinding Road</Song>
+		</Songs>
+	</Singer>
+</Music>

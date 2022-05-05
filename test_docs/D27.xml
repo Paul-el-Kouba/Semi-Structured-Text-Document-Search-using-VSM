@@ -1,0 +1,28 @@
+<Music>
+	<Singer>
+		<Name>Bonnie Tyler</Name> 
+		<DoB>8 June 1951</DoB> 
+		<Nationality>American</Nationality>
+		<Genres>
+			<Genre>Pop</Genre> 
+			<Genre>Rock</Genre> 
+			<Genre>Country</Genre> 
+			<Genre>Soft Rock</Genre>   
+		</Genres>
+		<Albums>
+			<Album>Faster Than The Speed Of Light</Album>
+			<Album>The Best Is Yet To Come</Album>
+			<Album>Bitterblue</Album>
+			<Album>Bonnie Tyler Live</Album>
+		</Albums>
+		<Songs>
+			<Song>Total Eclipse Of The Heart</Song>
+			<Song>It's a Heartache</Song>
+			<Song>Holding Out For A Hero</Song>
+			<Song>Lost In France</Song>
+			<Song>The River</Song>
+			<Song>Waiting on a Sunny Day</Song>
+			<Song>Secret Garden</Song>
+		</Songs>
+	</Singer>
+</Music>

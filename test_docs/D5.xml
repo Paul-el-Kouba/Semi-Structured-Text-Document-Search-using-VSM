@@ -1,0 +1,30 @@
+<Movies>
+	<Movie>
+		<Title>Annabelle Comes Home</Title>
+		<ReleaseDate>6 May 2022</ReleaseDate>
+		<Genres>
+			<Genre>Horror</Genre>
+			<Genre>Thriller</Genre> 
+			<Genre>Mystery</Genre>
+		</Genres>
+		<Cast>
+			<Actor><Name>Parick Wilson</Name></Actor>
+			<Actor><Name>Vera Farmiga</Name></Actor>
+			<Actor><Name>Mckenna Grace</Name></Actor>
+			<Actor><Name>Michael Cimino</Name></Actor>
+			<Actor><Name>Katie Sarife</Name></Actor>
+		</Cast>
+		<Director>James Wan</Director>
+		<Follows>
+			<title>Anabelle</title> 
+			<title>Anabelle: Creation</title> 
+			<title>The Conjuring</title> 
+			<title>The Conjuring 2</title> 
+			<title>The Conjuring: The Devil Made Me Do It</title> 
+		</Follows>
+		<Rating rated="R"/>
+		<Plot>Judy and her babysitter are left alone in her house after her parents leave to investigate a case. 
+		However, an unexpected guest sets Annabelle free, unleashing demonic activity in the house.</Plot>
+		<Score critics="53" audience="5.9"/>
+	</Movie>
+</Movies>

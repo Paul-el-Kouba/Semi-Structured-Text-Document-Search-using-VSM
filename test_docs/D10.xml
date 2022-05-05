@@ -1,0 +1,28 @@
+<Movies>
+	<Movie>
+		<Title>tick, tick... BOOM!</Title>
+		<ReleaseDate>19 November 2021</ReleaseDate>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre> 
+			<Genre>Musical</Genre>
+		</Genres>
+		<Cast>
+			<Actor><Name>Andrew Garfield</Name></Actor>
+			<Actor><Name>TAlexandra Shipp</Name></Actor>
+			<Actor><Name>Robin De Jesus</Name></Actor>
+			<Actor><Name>Vanessa Hudgens</Name></Actor>
+			<Actor><Name>Joshua Henry</Name></Actor>
+		</Cast>
+		<Director>Lin-Manuel Miranda</Director>
+		<Follows>
+			<title>Superbia</title> 
+			<title>Rent</title>  
+		</Follows>
+		<Rating rated="PG-13"/>
+		<Plot>Based on the autobiographical musical by playwright Jonathan Larson. 
+		It's the story of an aspiring composer in New York City who is worried he made the wrong career choice, 
+		whilst navigating the pressures of love and friendship</Plot>
+		<Score critics="74" audience="7.5"/>
+	</Movie>
+</Movies>

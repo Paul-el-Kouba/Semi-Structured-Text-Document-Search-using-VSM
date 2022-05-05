@@ -1,0 +1,30 @@
+<Series>
+	<Title>Star Wars: The Clone WARS</Title>
+	<ReleaseDate year="2008"/>
+	<Ratings rated="TV-PG"/>
+	<NumOfEpisodes num="133"/>		
+	<Genres>
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre> 
+		<Genre>Animation</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Sci-Fi</Genre>
+	</Genres>
+	<Directors>
+		<director>Dave Filioni</director>
+		<director>Geroge Lucas</director>
+	</Directors>
+	<Cast>
+		<Actor><Name>Tom Kane</Name></Actor>
+		<Actor><Name>Dee Bradley Baker</Name></Actor>
+		<Actor><Name>James Arnold Taylor</Name></Actor>
+		<Actor><Name>Matthew Wood</Name></Actor>
+		<Actor><Name>Corey Burton</Name></Actor>
+	</Cast>
+	<Plot>As multiple star systems get involved in the Clone Wars, the Jedi Knights struggle to keep the peace
+	and defeat the droid army of the Separatists. 
+	Meanwhile, an old threat slowly reveals its presence.</Plot>
+	<Score critics="" audience="8.3"/>
+	<Status>Ended</Status>
+</Series>

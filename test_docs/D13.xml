@@ -1,0 +1,26 @@
+<Series>
+	<Title>Friends</Title>
+	<ReleaseDate year="1994"/>
+	<Ratings rated="TV-14"/>
+	<NumOfEpisodes num="235"/>		
+	<Genres>
+		<Genre>Comedy</Genre>
+		<Genre>Romance</Genre>  
+	</Genres>
+	<Directors>
+		<director>Gary Halvorson</director>
+		<director>David Crane</director>
+	</Directors>
+	<Cast>
+		<Actor><Name>Jennifer Aniston</Name></Actor>
+		<Actor><Name>Lisa Kudrow</Name></Actor>
+		<Actor><Name>Courtney Cox</Name></Actor>
+		<Actor><Name>Matt LeBlanc</Name></Actor>
+		<Actor><Name>Matthew Perry</Name></Actor>
+		<Actor><Name>David Schwimmer</Name></Actor>
+	</Cast>
+	<Plot>Follow the lives of six reckless adults living in Manhattan, 
+	as they indulge in adventures which make their lives both troublesome and happening.</Plot>
+	<Score critics="" audience="8.9"/>
+	<Status>Ended</Status>
+</Series>

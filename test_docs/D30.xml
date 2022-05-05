@@ -1,0 +1,28 @@
+<Music>
+	<Singer>
+		<Name>Andrea Bocelli</Name> 
+		<DoB>2 September 1958</DoB> 
+		<Nationality>Italian</Nationality>
+		<Genres>
+			<Genre>Pop</Genre> 
+			<Genre>Opera</Genre> 
+			<Genre>Operatic Pop</Genre>  
+			<Genre>Latin Pop</Genre> 
+		</Genres>
+		<Albums>
+			<Album>Il Mare Calmo Della Sera</Album>
+			<Album>Bocelli</Album>
+			<Album>Aria The Opera Album</Album>
+			<Album>Viaggio Italianp</Album>
+		</Albums>
+		<Songs>
+			<Song>Nessun Dorma</Song>
+			<Song>Ave Maria</Song>
+			<Song>Con Te Partiro</Song>
+			<Song>Vivo Per Lei</Song>
+			<Song>Sempre Sempre</Song>
+			<Song>Le Tue Parole</Song>
+			<Song>Romanza</Song>
+		</Songs>
+	</Singer>
+</Music>

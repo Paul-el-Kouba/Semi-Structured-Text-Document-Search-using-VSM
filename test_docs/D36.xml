@@ -1,0 +1,24 @@
+<Sport>
+	<Name>Golf</Name>
+	<Tools>
+		<Tool>Ball</Tool>
+		<Tool>Clubs</Tool>
+		<Tool>Carts</Tool>
+	</Tools> 
+	<Players>
+		<Player>Tiger Woods</Player>
+		<Player>Jack Nicklaus</Player>
+		<Player>Phil Mickelson</Player>
+		<Player>Rory Mcllroy</Player>
+		<Player>Gary Player</Player>
+		<Player>Ben Hogan</Player>
+	</Players>
+	<Courses>
+		<Course>Cypress Point Club</Course>
+		<Course>Old Course</Course>
+		<Course>Augusta National Golf Club</Course>
+		<Course>Natinoal Golf Links of America</Course>
+		<Course>Whistling Straits Golf Course</Course>
+		<Course>Sand Hills Golf Club</Course>
+	</Courses>
+</Sport>
