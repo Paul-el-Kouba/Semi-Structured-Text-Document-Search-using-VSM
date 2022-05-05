@@ -1,5 +1,5 @@
 {
-    "D247": {
+    "D1": {
         "doctor": 2,
         "strange": 3,
         "multiverse": 2,
@@ -23,7 +23,7 @@
         "sam": 1,
         "raimi": 1,
         "wandavision": 1,
-        "avenger": 1,
+        "avengers": 1,
         "endgame": 1,
         "spider": 1,
         "man": 1,
@@ -33,7 +33,7 @@
         "dr": 1,
         "stephen": 1,
         "cast": 1,
-        "forbid": 1,
+        "forbidden": 1,
         "spell": 1,
         "open": 1,
         "portal": 1,
@@ -45,7 +45,7 @@
         "63": 1,
         "8.2": 1
     },
-    "D248": {
+    "D2": {
         "tick": 2,
         "boom": 1,
         "19": 1,
@@ -82,7 +82,7 @@
         "new": 1,
         "york": 1,
         "city": 1,
-        "worry": 1,
+        "worried": 1,
         "wrong": 1,
         "career": 1,
         "choice": 1,
@@ -94,7 +94,7 @@
         "74": 1,
         "7.5": 1
     },
-    "D249": {
+    "D3": {
         "moon": 1,
         "knight": 1,
         "2022": 1,
@@ -135,7 +135,7 @@
         "7.6": 1,
         "end": 1
     },
-    "D250": {
+    "D4": {
         "star": 2,
         "wars": 2,
         "clone": 2,
@@ -185,7 +185,7 @@
         "8.3": 1,
         "end": 1
     },
-    "D251": {
+    "D5": {
         "friend": 1,
         "1994": 1,
         "tv-14": 1,
@@ -220,7 +220,7 @@
         "8.9": 1,
         "end": 1
     },
-    "D252": {
+    "D6": {
         "game": 1,
         "thrones": 1,
         "2011": 1,
@@ -263,8 +263,8 @@
         "9.2": 1,
         "end": 1
     },
-    "D253": {
-        "well": 1,
+    "D7": {
+        "better": 1,
         "saul": 2,
         "2015": 1,
         "tv-ma": 1,
@@ -309,7 +309,7 @@
         "8.8": 1,
         "end": 1
     },
-    "D254": {
+    "D8": {
         "break": 1,
         "bad": 1,
         "2008": 1,
@@ -353,7 +353,7 @@
         "9.5": 1,
         "end": 1
     },
-    "D255": {
+    "D9": {
         "westworld": 2,
         "2016": 1,
         "tv-ma": 1,
@@ -395,7 +395,7 @@
         "8.6": 1,
         "run": 1
     },
-    "D256": {
+    "D10": {
         "stranger": 1,
         "thing": 1,
         "2016": 1,
@@ -442,7 +442,7 @@
         "8.7": 1,
         "run": 1
     },
-    "D257": {
+    "D11": {
         "peaky": 2,
         "blinder": 1,
         "2014": 1,
@@ -484,7 +484,7 @@
         "activity": 1,
         "8.8": 1
     },
-    "D258": {
+    "D12": {
         "spider": 8,
         "man": 8,
         "way": 1,
@@ -537,7 +537,7 @@
         "71": 1,
         "8.4": 1
     },
-    "D259": {
+    "D13": {
         "daredevil": 2,
         "2015": 1,
         "tv-ma": 1,
@@ -578,7 +578,7 @@
         "8.6": 1,
         "end": 1
     },
-    "D260": {
+    "D14": {
         "taylor": 1,
         "swift": 1,
         "13": 1,
@@ -603,7 +603,7 @@
         "betty": 1,
         "hoax": 1
     },
-    "D261": {
+    "D15": {
         "ed": 1,
         "sheeran": 1,
         "17": 1,
@@ -628,7 +628,7 @@
         "lego": 1,
         "house": 1
     },
-    "D262": {
+    "D16": {
         "freddie": 1,
         "mercury": 1,
         "queen": 4,
@@ -656,7 +656,7 @@
         "free": 1,
         "song": 1
     },
-    "D263": {
+    "D17": {
         "david": 2,
         "bowie": 2,
         "8": 1,
@@ -687,7 +687,7 @@
         "life": 1,
         "change": 1
     },
-    "D264": {
+    "D18": {
         "john": 1,
         "lennon": 1,
         "beatles": 2,
@@ -721,7 +721,7 @@
         "long": 1,
         "whinding": 1
     },
-    "D265": {
+    "D19": {
         "paul": 1,
         "mccartney": 2,
         "beatles": 1,
@@ -754,7 +754,7 @@
         "long": 1,
         "whinding": 1
     },
-    "D266": {
+    "D20": {
         "bonnie": 2,
         "tyler": 2,
         "8": 1,
@@ -787,7 +787,7 @@
         "secret": 1,
         "garden": 1
     },
-    "D267": {
+    "D21": {
         "stromae": 1,
         "12": 1,
         "march": 1,
@@ -808,9 +808,9 @@
         "alors": 1,
         "l'enfer": 1,
         "sante": 1,
-        "carman": 1
+        "carmen": 1
     },
-    "D268": {
+    "D22": {
         "anthony": 1,
         "khoury": 1,
         "adonis": 2,
@@ -838,7 +838,7 @@
         "chajret": 1,
         "jararank": 1
     },
-    "D269": {
+    "D23": {
         "batman": 2,
         "6": 1,
         "2022": 1,
@@ -890,11 +890,11 @@
         "corruption": 1,
         "long": 1,
         "plague": 1,
-        "metropoli": 1,
+        "metropolis": 1,
         "72": 1,
         "8.0": 1
     },
-    "D270": {
+    "D24": {
         "andrea": 1,
         "bocelli": 2,
         "2": 1,
@@ -913,7 +913,7 @@
         "aria": 1,
         "album": 1,
         "viaggio": 1,
-        "italianp": 1,
+        "italiano": 1,
         "nessun": 1,
         "dorma": 1,
         "ave": 1,
@@ -929,7 +929,7 @@
         "parole": 1,
         "romanza": 1
     },
-    "D271": {
+    "D25": {
         "basketball": 1,
         "ball": 1,
         "net": 1,
@@ -940,7 +940,7 @@
         "los": 2,
         "angeles": 2,
         "lakers": 1,
-        "clipper": 1,
+        "clippers": 1,
         "toronto": 1,
         "raptor": 1,
         "kobe": 1,
@@ -957,9 +957,9 @@
         "steve": 1,
         "kerr": 1,
         "doc": 1,
-        "rivers": 1
+        "river": 1
     },
-    "D272": {
+    "D26": {
         "football": 1,
         "ball": 1,
         "net": 1,
@@ -992,7 +992,7 @@
         "didier": 1,
         "deschamps": 1
     },
-    "D273": {
+    "D27": {
         "baseball": 1,
         "ball": 1,
         "bat": 1,
@@ -1027,7 +1027,7 @@
         "tony": 1,
         "larussa": 1
     },
-    "D274": {
+    "D28": {
         "volleyball": 1,
         "ball": 1,
         "net": 1,
@@ -1040,9 +1040,9 @@
         "angeles": 1,
         "blaze": 1,
         "texas": 1,
-        "tyrants": 1,
+        "tyrant": 1,
         "dallas": 1,
-        "tornado": 1,
+        "tornadoes": 1,
         "karch": 1,
         "kiraly": 1,
         "giba": 1,
@@ -1061,7 +1061,7 @@
         "dave": 1,
         "shoji": 1
     },
-    "D275": {
+    "D29": {
         "tennis": 1,
         "ball": 1,
         "raquet": 1,
@@ -1091,7 +1091,7 @@
         "williams": 2,
         "venus": 1
     },
-    "D276": {
+    "D30": {
         "golf": 5,
         "ball": 1,
         "club": 4,
@@ -1115,14 +1115,14 @@
         "augusta": 1,
         "national": 1,
         "natinoal": 1,
-        "link": 1,
+        "links": 1,
         "america": 1,
         "whistling": 1,
         "straits": 1,
         "sand": 1,
         "hills": 1
     },
-    "D277": {
+    "D31": {
         "table": 3,
         "tennis": 2,
         "ball": 1,
@@ -1132,7 +1132,7 @@
         "china": 1,
         "national": 1,
         "team": 1,
-        "chartre": 1,
+        "chartres": 1,
         "astt": 1,
         "al": 1,
         "rayyan": 1,
@@ -1152,7 +1152,7 @@
         "fan": 1,
         "zhendong": 1
     },
-    "D278": {
+    "D32": {
         "rugby": 2,
         "american": 1,
         "football": 1,
@@ -1189,7 +1189,7 @@
         "clive": 1,
         "woodward": 1
     },
-    "D279": {
+    "D33": {
         "hockey": 2,
         "skate": 1,
         "stick": 1,
@@ -1227,8 +1227,8 @@
         "mike": 1,
         "babcock": 1
     },
-    "D280": {
-        "conjuring": 3,
+    "D34": {
+        "conjuring": 2,
         "devil": 1,
         "4": 1,
         "june": 1,
@@ -1249,6 +1249,7 @@
         "hilliard": 1,
         "james": 1,
         "wan": 1,
+        "conjure": 1,
         "2": 1,
         "annabelle": 3,
         "creation": 1,
@@ -1276,7 +1277,7 @@
         "53": 1,
         "6.3": 1
     },
-    "D281": {
+    "D35": {
         "lacross": 1,
         "helmet": 1,
         "stick": 1,
@@ -1309,7 +1310,7 @@
         "lindsay": 1,
         "teeters": 1
     },
-    "D282": {
+    "D36": {
         "annabelle": 2,
         "come": 1,
         "home": 1,
@@ -1332,7 +1333,8 @@
         "wan": 1,
         "anabelle": 2,
         "creation": 1,
-        "conjuring": 3,
+        "conjuring": 2,
+        "conjure": 1,
         "2": 1,
         "devil": 1,
         "r": 1,
@@ -1347,13 +1349,13 @@
         "guest": 1,
         "set": 1,
         "free": 1,
-        "unleash": 1,
+        "unleashing": 1,
         "demonic": 1,
         "activity": 1,
         "53": 1,
         "5.9": 1
     },
-    "D283": {
+    "D37": {
         "insidious": 4,
         "1": 1,
         "april": 1,
@@ -1390,7 +1392,7 @@
         "52": 1,
         "6.8": 1
     },
-    "D284": {
+    "D38": {
         "jurassic": 4,
         "world": 2,
         "12": 1,
@@ -1431,7 +1433,7 @@
         "59": 1,
         "6.9": 1
     },
-    "D285": {
+    "D39": {
         "dune": 2,
         "22": 1,
         "october": 1,
@@ -1475,7 +1477,7 @@
         "74": 1,
         "8.1": 1
     },
-    "D286": {
+    "D40": {
         "look": 1,
         "1": 1,
         "april": 1,
@@ -1501,7 +1503,7 @@
         "level": 1,
         "astronomer": 1,
         "giant": 1,
-        "media": 1,
+        "medium": 1,
         "tour": 1,
         "warn": 1,
         "mankind": 1,
@@ -1512,5 +1514,13 @@
         "earth": 1,
         "49": 1,
         "7.2": 1
+    },
+    "D41": {
+        "ece": 1,
+        "john": 3,
+        "cramer": 2,
+        "takagi": 1,
+        "mark": 1,
+        "lau": 1
     }
 }
