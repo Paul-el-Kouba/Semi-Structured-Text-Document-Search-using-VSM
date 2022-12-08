@@ -1,6 +1,7 @@
 # Semi-Structured-Text-Document-Search-using-VSM
 
 The goals of this project are: 
+
 i) Implement a text document comparison function, which computes the similarity between two semi-structured (XML-like) text documents using a Vector Space Model (VSM-  based) approach, considering the structure and content properties of the documents.
 
 ii) Implement a querying interface allowing the user to query a semi-structured text document collection, using keyword and semi-structured queries.
